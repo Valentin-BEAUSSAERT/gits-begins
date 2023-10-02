@@ -8,3 +8,9 @@ Commande pour push :
 
 Commande pour pull :
 	git pull
+
+Commande pour créer une nouvelle branche :
+	git branch "nom de la branche"
+
+Commande pour changer de branche :
+	git checkout "nom de la branche" 
