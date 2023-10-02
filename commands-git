@@ -1,4 +1,4 @@
-Cloner un repository 
+Commande pour cloner un repository :
 	git clone url	
 
 Commande pour push : 
@@ -6,4 +6,5 @@ Commande pour push :
 	git commit -m "commit texte"
 	git push -u origin main 
 
-
+Commande pour pull :
+	git pull
